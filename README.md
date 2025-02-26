@@ -34,7 +34,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ### Running the Notebook
 1. Clone this repository:
 ```bash
-git clone <repo-url>
+git clone https://github.com/xlfrxd/League-of-Legends-Win-Rate-Predictor/
 ```
 2. Navigate to the project directory:
 ```bash
